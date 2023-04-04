@@ -1,0 +1,6 @@
+README.md
+setup.py
+course_ds_base.egg-info/PKG-INFO
+course_ds_base.egg-info/SOURCES.txt
+course_ds_base.egg-info/dependency_links.txt
+course_ds_base.egg-info/top_level.txt
