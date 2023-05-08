@@ -61,6 +61,4 @@ stages:
     - featurize.target_column
     outs:
     - reports/confusion_matrix.png
-    metrics:
-    - reports/metrics.json:
-        cache: false
+    - reports/metrics.json
